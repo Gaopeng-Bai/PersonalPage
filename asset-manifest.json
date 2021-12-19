@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/personalpage/static/css/main.12ed2e40.css",
+    "main.js": "/personalpage/static/js/main.7abab2fc.js",
+    "static/js/377.a7cf8eb3.chunk.js": "/personalpage/static/js/377.a7cf8eb3.chunk.js",
+    "static/media/codeEditor.png": "/personalpage/static/media/codeEditor.ba9458794dca1c746ef2.png",
+    "static/media/blog.png": "/personalpage/static/media/blog.52102140f369ea233010.png",
+    "static/media/chatify.png": "/personalpage/static/media/chatify.9373eddae1a258056c35.png",
+    "static/media/leaf.png": "/personalpage/static/media/leaf.4c15d6eb3fc75cfef85b.png",
+    "static/media/home-main.svg": "/personalpage/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/personalpage/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/CV_EN_GaopengBai.pdf": "/personalpage/static/media/CV_EN_GaopengBai.eebb14773319ae05b3b5.pdf",
+    "static/media/suicide.png": "/personalpage/static/media/suicide.b72f1f9ffeb4775a7803.png",
+    "static/media/home-bg.jpg": "/personalpage/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/personalpage/static/media/logo.8424b9c6a16bda37f30d.png",
+    "static/media/emotion.jpeg": "/personalpage/static/media/emotion.e92e314a236f65bb89af.jpeg",
+    "static/media/avatar.svg": "/personalpage/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/personalpage/static/media/pre.3b5d79a56774717bcfd8.svg",
+    "index.html": "/personalpage/index.html",
+    "main.12ed2e40.css.map": "/personalpage/static/css/main.12ed2e40.css.map",
+    "main.7abab2fc.js.map": "/personalpage/static/js/main.7abab2fc.js.map",
+    "377.a7cf8eb3.chunk.js.map": "/personalpage/static/js/377.a7cf8eb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12ed2e40.css",
+    "static/js/main.7abab2fc.js"
+  ]
+}
