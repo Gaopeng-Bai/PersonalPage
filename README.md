@@ -53,3 +53,43 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
+## Deployment (gh-page)
+
+1. Install GitHub Pages package as a dev-dependency.
+    ```
+    Install gh-pages --save-dev
+    ```
+2. Add properties to package.json file.
+   The first property we need to add at the top level homepage second we will define this as a string and the value will be "http://{username}.github.io/{repo-name}" {username} is your GitHub username, and {repo-name} is the name of the GitHub repository you created it will look like this :
+
+    ```
+      "homepage": "http://yuribenjamin.github.io/my-app"
+    ```
+
+      Second in the existing scripts property we to need to add predeploy and deploy.
+
+    ```
+      "scripts": {
+      //...
+      "predeploy": "npm run build",
+      "deploy": "gh-pages -d build"
+      }
+    ```
+
+3. Create a Github repository and initialize it and add it as a remote in your local git repository.
+   ```
+   git init
+   git remote add origin git@github.com:Yuribenjamin/my-app.git
+   ```
+4. Now deploy it to GitHub Pages.
+   ```
+   npm run deploy
+   ```
+
+5. commit and push your commit to GitHub. Optionally
+
+    ```
+    git add .
+    git commit -m "Your awesome message"
+    git push origin master
+    ```
